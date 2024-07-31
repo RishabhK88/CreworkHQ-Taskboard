@@ -1,0 +1,6 @@
+[submodule "Crework-HQ---Frontend"]
+	path = Crework-HQ---Frontend
+	url = https://github.com/RishabhK88/Crework-HQ---Frontend.git
+[submodule "Crework-HQ---Backend"]
+	path = Crework-HQ---Backend
+	url = https://github.com/RishabhK88/Crework-HQ---Backend.git
